@@ -1,0 +1,6 @@
+{
+  "name": "Secure Dashboard",
+  "description": "Password-protected secure management dashboard with device telemetry, vault secrets, task management, and adaptive multi-device design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
